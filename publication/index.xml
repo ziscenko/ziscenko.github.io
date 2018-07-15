@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Zanna Iscenko</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Zanna Iscenko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Choices of dominated mortgage products by UK consumers</title>
+      <link>/publication/dominance/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dominance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of the advice requirement and intermediation in the UK mortgage market </title>
+      <link>/publication/intermediation-advice/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/intermediation-advice/</guid>
+      <description>#More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Behaviour and compliance in organisations</title>
+      <link>/publication/borg/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/borg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economics for effective regulation</title>
+      <link>/publication/efer/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/efer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying behavioural economics at the Financial Conduct Authority</title>
+      <link>/publication/beop1/</link>
+      <pubDate>Thu, 04 Apr 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/beop1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the impact of prudential policy on the macroeconomy: A practical application to Basel III and other responses to the financial crisis</title>
+      <link>/publication/op42/</link>
+      <pubDate>Wed, 04 Apr 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/op42/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
